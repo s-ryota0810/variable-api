@@ -6,7 +6,7 @@ const container = document.getElementById("app");
 const root = createRoot(container!);
 
 root.render(
-    <div className="text-red">
+    <div>
         <App />
     </div>
 );
